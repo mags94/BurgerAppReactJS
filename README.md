@@ -1,6 +1,6 @@
 # BurgerAppReactJS
 
-Burger Builder application is a responsive application which provides the option of adding burgerIngredients such as cheese, bacon,meat etc in a dynamic fashion. Once the ingredients are getting added, the total price gets updated. By clicking OrderNow button, the modal is getting populated along with the chosen ingredients and also total price. Further user can proceed for checkOut or continue adding ingredients. 
+Burger Builder application is a responsive application which provides the option of adding/Removing the burgerIngredients such as cheese, bacon,meat etc in a dynamic fashion. Once the ingredients are getting added/removed , the total price gets updated. By clicking OrderNow button, the modal is getting populated along with the chosen ingredients and also total price. Further user can proceed for checkOut or continue adding ingredients. 
 It can be viewed in Mobile as well as desktop .
 
 Above project uses 
