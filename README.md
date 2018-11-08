@@ -15,3 +15,6 @@ Above project uses
 8. css modules ( applying styles to JSX) 
 9. Routing
 10. save and fetch order data from firebase
+
+App is deployed using surge.
+http://tasteful-burger.surge.sh
